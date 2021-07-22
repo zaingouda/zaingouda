@@ -1,16 +1,15 @@
-### Hi there 👋
+# 👋, I'm Zain
 
-<!--
-**zaingouda/zaingouda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## I create fantastic projects
 
-Here are some ideas to get you started:
+### Join me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Join my [discord](https://discord.gg/NpUNyWXrvk)
+
+## Quick links
+
+[Facebook](https://www.facebook.com/zaingouda)
+
+[Instagram](https://www.instagram.com/zaingouda)
+
+[Follow Me](https://github.com/zaingouda)
